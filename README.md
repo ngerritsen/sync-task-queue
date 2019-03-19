@@ -1,9 +1,12 @@
+[![Build Status](https://travis-ci.org/ngerritsen/sync-task-queue.svg?branch=master)](https://travis-ci.org/ngerritsen/sync-task-queue)
+
 # Sync Task Queue
 
 Makes sure async tasks are executed in sequence.
 
-- No dependencies! 🎂
-- Compatible with Node >= 4 and all browsers that support Promises
+- 🎂 _No_ dependencies!
+- 💎 __0.8kB__ minified!
+- 🦄 Compatible with _Node >= 4_ and _all_ browsers that support Promises
 
 ## Usage
 

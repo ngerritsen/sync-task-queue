@@ -1,5 +1,5 @@
 {
-  "name": "@coolblue/sync-task-queue",
+  "name": "sync-task-queue",
   "version": "1.0.0",
   "description": "Execute async tasks in sequence.",
   "main": "index.js",
