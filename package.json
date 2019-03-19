@@ -1,6 +1,6 @@
 {
   "name": "sync-task-queue",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Execute async tasks in sequence.",
   "main": "index.js",
   "scripts": {
@@ -21,8 +21,15 @@
   "bugs": {
     "url": "https://github.com/ngerritsen/sync-task-queue/issues"
   },
+  "jest": {
+    "transform": {
+      "test\\.js$": "babel-jest"
+    }
+  },
   "homepage": "https://github.com/ngerritsen/sync-task-queue#readme",
   "devDependencies": {
+    "@babel/core": "^7.3.4",
+    "babel-jest": "^24.5.0",
     "jest": "^24.5.0"
   }
 }
