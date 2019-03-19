@@ -1,6 +1,6 @@
 {
   "name": "sync-task-queue",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Execute async tasks in sequence.",
   "main": "index.js",
   "scripts": {
