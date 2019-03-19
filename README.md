@@ -6,7 +6,7 @@ Makes sure async tasks are executed in sequence.
 
 - 🎂 _No_ dependencies!
 - 💎 __0.8kB__ minified!
-- 🦄 Compatible with _Node >= 4_ and _all_ browsers that support Promises
+- 🦄 Compatible with _Node >= 6_ and _all_ browsers that support Promises
 
 ## Usage
 
