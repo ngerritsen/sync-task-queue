@@ -1,0 +1,28 @@
+{
+  "name": "@coolblue/sync-task-queue",
+  "version": "1.0.0",
+  "description": "Execute async tasks in sequence.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ngerritsen/sync-task-queue.git"
+  },
+  "keywords": [
+    "async",
+    "promise",
+    "task",
+    "queue"
+  ],
+  "author": "Niels Gerritsen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ngerritsen/sync-task-queue/issues"
+  },
+  "homepage": "https://github.com/ngerritsen/sync-task-queue#readme",
+  "devDependencies": {
+    "jest": "^24.5.0"
+  }
+}
