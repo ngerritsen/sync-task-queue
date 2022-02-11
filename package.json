@@ -1,6 +1,6 @@
 {
   "name": "sync-task-queue",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Execute async tasks in sequence.",
   "main": "index.js",
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ngerritsen/sync-task-queue.git"
+    "url": "git+https://gitlab.com/ngerritsen/sync-task-queue.git"
   },
   "keywords": [
     "async",
@@ -19,9 +19,9 @@
   "author": "Niels Gerritsen",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/ngerritsen/sync-task-queue/issues"
+    "url": "https://gitlab.com/ngerritsen/sync-task-queue/issues"
   },
-  "homepage": "https://github.com/ngerritsen/sync-task-queue#readme",
+  "homepage": "https://gitlab.com/ngerritsen/sync-task-queue#readme",
   "devDependencies": {
     "jest": "^24.5.0"
   },

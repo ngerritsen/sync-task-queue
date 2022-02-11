@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/ngerritsen/sync-task-queue.svg?branch=master)](https://travis-ci.org/ngerritsen/sync-task-queue)
+[![Pipeline Status](https://gitlab.com/ngerritsen/sync-task-queue/badges/master/pipeline.svg)](https://gitlab.com/ngerritsen/sync-task-queue/-/commits/master)
 
 # Sync Task Queue
 
@@ -35,7 +35,7 @@ taskQueue.enqueue(taskB)
 
 /**
  * Output:
- * 
+ *
  * Starting HTTP request A
  * Done with HTTP request A
  * Starting HTTP request B
